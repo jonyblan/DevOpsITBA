@@ -14,3 +14,15 @@ def add(self, a, b):
         float: La suma de a y b
     """
     return a + b
+
+def subtract(self, a, b):
+    """
+    Resta dos números y retorna el resultado.
+    """
+    return a - b
+
+def multiply(self, a, b):
+    """
+    Multiplica dos números y retorna el resultado.
+    """
+    return a * b
